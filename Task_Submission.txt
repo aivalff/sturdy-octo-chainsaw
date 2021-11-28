@@ -1,0 +1,5 @@
+Hi, I'm Flavia from Italy, I studied Energy Engineering and I've living in Switzerland for 4 years now. 
+I currently working as simulation engineer for a company in Basel and in the last year I started becoming
+more and more interested in Data Science and Machine Learning.
+I took an introductory course on ML on Coursera, started networking with external and decided that I want 
+to deepen my knowledge in this field.
