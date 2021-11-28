@@ -3,3 +3,6 @@ I currently working as simulation engineer for a company in Basel and in the las
 more and more interested in Data Science and Machine Learning.
 I took an introductory course on ML on Coursera, started networking with external and decided that I want 
 to deepen my knowledge in this field.
+
+At the end of this programm I hope to end up with a overview on Data Science and ML topics 
+in order to finally change carrer path and find a job in this field!
